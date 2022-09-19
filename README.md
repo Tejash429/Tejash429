@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Tejash
+- 👋  Hi, I’m Tejash
 - 🌱 I’m currently learning **JavaScrpit,React.js**
 - 📫 How to reach me pateltejash429@gmail.com
-- :man_technologist: All of my projects are available at github.com/Tejash429
-- :speech_balloon: Ask me about **Java,C**
+- :man_technologist: All of my projects are available at [Github](https://github.com/Tejash429)
+- :speech_balloon: Ask me about **Java,C,JavaScript**.
+
 
 
 
