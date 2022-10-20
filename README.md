@@ -10,6 +10,11 @@
 - :man_technologist: All of my projects are available at [Github](https://github.com/Tejash429)
 - :speech_balloon: Ask me about **Java,C,JavaScript**.
 
+
+## My Badge Board
+
+[![@tejash_29's Holopin board](https://holopin.me/tejash_29)](https://holopin.io/@tejash_29)
+
 <p align="center">
   My interests: <br>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
