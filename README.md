@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScrpit,React.js**
 - 📫 How to reach me pateltejash429@gmail.com
-- :man_technologist: All of my projects are available at [Github](https://github.com/Tejash429)
+- :man_technologist: All of my projects are available at [Github](https://github.com/Tejash429/tab=repositories)
 - :speech_balloon: Ask me about **Java,C,JavaScript**.
 
 
